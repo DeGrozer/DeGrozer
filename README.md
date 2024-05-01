@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning PHP, React Native, Java, and C++
 - 💞️ I’m looking to collaborate on ppl who wanted to collaborate with me 
 - 📫 How to reach me
-twitter: andrewdumps
+- 🐤 twitter: andrewdumps
 
+
+- imma upload my projects on vacay 
 <!---
 DeGrozer/DeGrozer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
