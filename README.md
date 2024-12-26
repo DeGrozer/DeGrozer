@@ -6,6 +6,8 @@
 
 I'm currently studying Bachelor of Science in Information Technology. <br>I'm interested in front end developing (UI/UX designing) and I'm just <br>curious about web developing even if it's pain in the ass (hahahah)<br><br>I'm kinda proficient in PHP, HTML and CSS (Javascript still learning)<br><br>I'm also interested about creating API and I dream of building a volleyball-related stuff one day.<br><br>
 
+I'll fix my account once I'm free. 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/janandrew.barte) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/DrewRivera) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/andrewdumps) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/andrewrb001) 
