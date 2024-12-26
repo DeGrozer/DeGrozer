@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=50&pause=1000&color=008000&background=000000&width=435&separator=%3C&lines=Hello+world;%3CI+am+Jan+Andrew%3CAn+Information+Technology+Student%3CAspiring+programmer" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 
