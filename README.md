@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=70&pause=1000&color=008000&background=000000&center=true&vCenter=true&width=900&height=120&separator=%3C&lines=Hello+World;%3CI+am+Jan+Andrew%3CIT+Student%3CAspiring+programmer" alt="Typing SVG" /></a>
 
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg )
+![Visitor Count](https://komarev.com/ghpvc/?username=DeGrozer&color=blueviolet&style=flat-square )
 
 # 💫 About Me:
 
