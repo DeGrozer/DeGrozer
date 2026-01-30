@@ -7,9 +7,12 @@
 
 Hi, I'm @DeGrozer — a handle coined from the legendary German opposite hitter György Grozer.
 
-I am currently pursuing a Bachelor of Science in Information Technology. My main interests revolve around front-end development, particularly UI/UX design. I am also actively exploring web development as a whole, despite its occasional frustrations.
+I am currently pursuing a Bachelor of Science in Information Technology. My main interests revolve around front-end development, particularly UI/UX design. I am also actively exploring web development as a whole, despite its occasional frustrations. 
 
-I am fairly proficient in PHP, HTML, and CSS, and I am currently learning JavaScript. Beyond front-end work, I am interested in building APIs and system-level applications. One of my long-term goals is to develop technology-driven projects related to volleyball.
+I am fairly proficient in PHP, HTML, and CSS, and I am currently learning JavaScript. Beyond front-end work, I am interested in building APIs and system-level applications. 
+
+One of my long-term goals is to develop technology-driven projects related to volleyball. 
+I already did a visualization of volleyball world rankings, and I plan on doing more stuffs related to volleyball. maybe create a schedule system? or Team Players card? or maybe.... i don't know maybe a community of devs who just love some volleyball? 
 
 This profile is still a work in progress and will be refined as time permits.
 
