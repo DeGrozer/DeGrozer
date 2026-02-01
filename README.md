@@ -5,7 +5,7 @@
 
 # About Me
 
-Hi, I'm @DeGrozer — a handle coined from the legendary German opposite hitter György Grozer.
+Hi, I'm @DeGrozer, a handle coined from the legendary German opposite hitter György Grozer.
 
 I am currently pursuing a Bachelor of Science in Information Technology. My main interests revolve around front-end development, particularly UI/UX design. I am also actively exploring web development as a whole, despite its occasional frustrations. 
 
