@@ -7,7 +7,7 @@
 
 Hi, I'm @DeGrozer, a handle coined from the legendary German opposite hitter György Grozer.
 
-I am currently pursuing a Bachelor of Science in Information Technology. My main interests revolve around front-end development, particularly UI/UX design. I am also actively exploring web development as a whole, despite its occasional frustrations. 
+I graduated Bachelor of Science in Information Technology at Camarines Sur Polytechnic Colleges. My main interests revolve around front-end development, particularly UI/UX design. I am also actively exploring web development as a whole, despite its occasional frustrations. 
 
 I am fairly proficient in PHP, HTML, and CSS, and I am currently learning JavaScript. Beyond front-end work, I am interested in building APIs and system-level applications. 
 
